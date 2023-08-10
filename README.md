@@ -3,7 +3,7 @@
 # First Download the dataset from the given link
 **https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset**
 
-#From this folder extract only the potatoes folder and make one new folder
+#From this folder extract only the potatoes image folder and replace these folder inside the PlantVillage
 
 #then in same folder add this ipynb file also 
 #after that run the ipynb file
